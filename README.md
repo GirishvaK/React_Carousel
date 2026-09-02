@@ -108,6 +108,7 @@ export default App;
 ```
 ## App.css
 ```
+```
 * {
   box-sizing: border-box;
 }
