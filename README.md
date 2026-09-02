@@ -41,7 +41,6 @@ Clean up the interval when the component unmounts using clearInterval to prevent
 ## PROGRAM
 ## App.jsx
 ```
-```
 import { useState } from "react";
 import "./App.css";
 
@@ -107,7 +106,6 @@ function App() {
 export default App;
 ```
 ## App.css
-```
 ```
 * {
   box-sizing: border-box;
@@ -189,7 +187,6 @@ button:hover {
 p {
   font-size: 18px;
 }
-```
 ```
 ## OUTPUT
 ```
